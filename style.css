@@ -1,0 +1,204 @@
+.flex {
+    width: 1600px;
+    height: 80px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    color: #ECECEC;
+  }
+  
+  .flex {
+    background-color: #2F303A;
+    width: 1600px;
+    height: 450px;
+  }
+  
+  .flex_button {
+    background-color: #2196F3;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 67px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding: 10px 32px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .flex_title {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    text-transform: uppercase;
+  }
+  
+  .our_works {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 94px;
+  }
+  
+  .our_works_container {
+    max-width: 270px;
+  }
+  
+  .our_works_container--title {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.41px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #212121;
+  }
+  
+  .our_works_container--text {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #757575;
+  }
+  
+  .to_do {
+    width: 1170px;
+    height: 386px;
+    top: 966px;
+    left: 215px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  .to_do_container--title {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #212121;
+  }
+  
+  .team_container {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #212121;
+  }
+  
+  .team_container--content {
+    max-width: 270px;
+    margin: 0 auto;
+    background-color: #fff;
+  }
+  
+  .team_container--content h3 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #212121;
+  }
+  
+  .team_container--content p {
+    font-weight: 500;
+    line-height: 18.75px;
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #757575;
+    letter-spacing: 0.03em;
+  }
+  
+  .team_container--content img {
+    width: 270px;
+    height: 268px;
+  }
+  .combo_container--title {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #212121;
+    width: 322px;
+    height: 30px;
+    top: 616px;
+    left: 239px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  .combo_container--text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #757575;
+    width: 322px;
+    height: 30px;
+    top: 616px;
+    left: 239px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  .link_container--content--last {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #212121;
+    background-color: #F5F4FA;
+  }
+  
+  .combo_container {
+    width: 370px;
+    height: 404px;
+    top: 262px;
+    left: 215px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+  }
