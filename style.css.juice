@@ -1,0 +1,73 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: #F9F9F9;
+}
+
+.header_container {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #707070;
+    display: flex;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+.header_container > p {
+    margin-left: 80px;
+}
+
+.header_container > p:hover {
+    color: #779611;
+}
+
+.fresh_juice {
+    border-top: 2px solid #779611;
+    border-bottom: 2px solid #779611;
+    padding-top: 193px;
+    padding-bottom: 194px;
+}
+
+.fresh_juice--text > h2 {
+    color: #779611;
+    font-family: Exo 2;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 57.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    max-width: 376px;
+}
+
+.fresh_juice--text > p {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.26px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+    max-width: 580px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fresh_juice--text--button {
+    background-color: #779611;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 39.01px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F9F9F9;
+    border: none;
+}

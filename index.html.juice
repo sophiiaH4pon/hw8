@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="header_container">
+        <img src="./img.juice/o pure flave.png" alt="logo">
+        <p>Shop</p>
+        <p>Subscription</p>
+        <p>About Us</p>
+    </header>
+    <main>
+        <section class="fresh_juice">
+            <div class="fresh_juice--text">
+                <h2>Freshly pressed, straight to your door</h2>
+                <p>At Pure Flave, we’re dedicated to goodness in every sip. Delicious, fresh juice, just as nature intended.</p>
+                <button  class="fresh_juice--text--button">Shop</button>
+            </div>
+            <img src="./img.juice/image 3 (1).png" alt="green juice" class="fresh_juice--img">
+        </section>
+        <section class="flavors">
+                <div class="flavors--text">
+                    <h3>Shop flaves</h3>
+                    <p>Cold-pressed, 100% organic, packed with vitamins, nutrients, and natural goodness.</p>
+                </div>
+                <div class="flavors--flavor">
+                    <img src="./img.juice/Rectangle 3 (1).png" alt="green punch juice">
+                    <p>Green Punch</p>
+                    <p>$6.00</p>
+                </div>
+                <div class="flavors--flavor">
+                    <img src="./img.juice/Rectangle 4.png" alt="Apple citrus juice">
+                    <p>Apple Citrus</p>
+                    <p>$6.00</p>
+                </div>
+                <div class="flavors--flavor">
+                    <img src="./img.juice/Rectangle 5 (1).png" alt="orange zest juice">
+                    <p>Orange Zest</p>
+                    <p>$6.00</p>
+                </div>
+            </div>
+        </section>
+        <section class="subscriptions">
+                <div class="subscriptions--text">
+                    <h3>Subscription</h3>
+                    <p>Subscribe to any of our plans and select how often you want them delivered.</p>
+                </div>
+                <div>
+                    <div class="subscriptions--subscription">
+                        <img src="./img.juice/Rectangle 6 (1).png" alt="total care">
+                        <p>Total Care</p>
+                        <p>$50.00</p>
+                    </div>
+                    <div class="subscriptions--subscription">
+                        <img src="./img.juice/Rectangle 7 (1).png" alt="Detox Plan">
+                        <p>Detox Plan</p>
+                        <p>$30.00</p>
+                    </div>
+                    <div class="subscriptions--subscription">
+                        <img src="./img.juice/Rectangle 8 (1).png" alt="Full-Day Cleanses">
+                        <p>Full-Day Cleanses</p>
+                        <p>$30.00</p>
+                    </div>
+                </div>
+        </section>
+        <section class="about_us">
+            <div>
+                <p>About Us</p>
+                <h2>Bringing 100% natural juices straight to your door</h2>
+                <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font
+                I’m a great place for you to tell a story and let your users know a little more about you.</p>
+            </div>
+            <img src="./img.juice/image 4 (1).png" alt="juice being poured in the cup">
+        </section>
+    </main>
+    <footer class="footer_container">
+        <ul>
+            <li><a href="#">Terms & Conditions</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Shipping Policy</a></li>
+        </ul>
+        <ul>
+            <li><a href="#">Cookie Policy </a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">Payment Methods</a></li>
+        </ul>
+        <ul>
+            <li><p>Address:</p></li>
+            <li><address>500 Terry Francine St.</address></li>
+            <li><address>San Francisco, CA 94158</address></li>
+        </ul>
+        <ul>
+            <li><p>Contact:</p></li>
+            <li><address>info@mysite.com</address></li>
+            <li><address>123-456-7890</address></li>
+        </ul>
+    </footer>
+</body>
+</html>
